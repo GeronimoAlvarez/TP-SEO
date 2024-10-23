@@ -211,3 +211,21 @@ footer {
     margin: 0;
     background-color: #4169E1;
 }
+
+
+#h2videocontenedor{
+    width: 100%;
+    background-color: #666777;
+}
+
+#h2video{
+    color: #fff;
+}
+
+#contenedorh2nosotros{
+    background-color: #4169E1;
+}
+
+#h2nosotros{
+    color: #fff;
+}
